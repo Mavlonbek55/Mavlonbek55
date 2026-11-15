@@ -93,25 +93,6 @@ database-enforced protection against concurrent double bookings.
 
 ---
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mavlonbek55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mavlonbek55/Mavlonbek55/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mavlonbek55/Mavlonbek55/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mavlonbek55/Mavlonbek55/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's connect
